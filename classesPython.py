@@ -7,6 +7,10 @@ class Classe:
     n3 = 6 
     n4 = 7 
 
+class Classe2():
+    pass # pass é uma declaração que permite que a Classe fique sem nenhum atributo 
+
+
 p1 = Classe() # Instanciando a classe em objeto 
 print(p1.x) # Pegando a váriavel da classe. 
 
