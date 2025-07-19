@@ -10,8 +10,6 @@ class Pessoa:
     def verAltura(self):
         return self.__altura
        
-
-
 p1 = Pessoa("Pedro", 19, 1.70)
 
 print(p1.nome) # atributo púlblico 
